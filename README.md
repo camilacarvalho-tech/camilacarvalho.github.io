@@ -1,2 +1,50 @@
 # camilacarvalho.github.io
 index.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Camila Carvalho - Portfólio</title>
+
+<style>
+
+body{
+font-family: Arial;
+background:#0f172a;
+color:white;
+text-align:center;
+padding:40px;
+}
+
+.card{
+background:#020617;
+padding:20px;
+margin:20px auto;
+max-width:600px;
+border-radius:10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Camila Carvalho</h1>
+
+<p>Desenvolvimento Web • APIs • Dados</p>
+
+<div class="card">
+<h2>Projeto</h2>
+<p>Recomece Cred Platform</p>
+<p>HTML • CSS • JavaScript • Node.js</p>
+</div>
+
+<div class="card">
+<h2>Projeto</h2>
+<p>Integração segura via API</p>
+<p>Python • API REST</p>
+</div>
+
+</body>
+</html>
